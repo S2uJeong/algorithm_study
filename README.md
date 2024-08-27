@@ -5,7 +5,10 @@
 1. 과제 : 일주일에 같은 문제 6개를 각자 풀이한다.
 2. 스터디 : 랜덤 2문제를 풀이한다.
 3. 스터디 시간에는 과제/스터디 각 1문제씩 풀이를 발표한다.
-    
+
+- 문제집 목록
+  - https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
+  - https://www.acmicpc.net/workbook/by/redblacktree
 ## Git 규칙
 - ISSUE : 화요일마다 문제를 선정하고 ISSUE로 등록
   ```
