@@ -1,4 +1,4 @@
-# alorithm_study
+# algorithm_study
 모여요! 알고리즘 스터디
 
 ## 스터디 규칙
